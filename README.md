@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [AdamJaroui23](AdamJaroui23)
+- 👨‍💻 All of my projects are available at [https://github.com/AdamJaroui23](https://github.com/AdamJaroui23)
 
 - 📫 How to reach me **adamjaroui23@gmail.com**
 
